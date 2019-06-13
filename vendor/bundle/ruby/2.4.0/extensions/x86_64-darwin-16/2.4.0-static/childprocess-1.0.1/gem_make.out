@@ -1,0 +1,5 @@
+current directory: /Volumes/miniDrive/ruby_workspace/rails_sample_app/vendor/bundle/ruby/2.4.0/gems/childprocess-1.0.1/ext
+/Users/koutya/.rbenv/versions/2.4.1/bin/ruby mkrf_conf.rb
+
+current directory: /Volumes/miniDrive/ruby_workspace/rails_sample_app/vendor/bundle/ruby/2.4.0/gems/childprocess-1.0.1/ext
+/Users/koutya/.rbenv/versions/2.4.1/bin/ruby -rubygems /Volumes/miniDrive/ruby_workspace/rails_sample_app/vendor/bundle/ruby/2.4.0/gems/rake-12.3.2/exe/rake RUBYARCHDIR=/Volumes/miniDrive/ruby_workspace/rails_sample_app/vendor/bundle/ruby/2.4.0/extensions/x86_64-darwin-16/2.4.0-static/childprocess-1.0.1 RUBYLIBDIR=/Volumes/miniDrive/ruby_workspace/rails_sample_app/vendor/bundle/ruby/2.4.0/extensions/x86_64-darwin-16/2.4.0-static/childprocess-1.0.1
